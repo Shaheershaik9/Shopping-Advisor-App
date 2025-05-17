@@ -2,6 +2,8 @@ phidata
 openai
 python-dotenv
 requests
-beautifulsoup4
+groq
 streamlit
-amazon_scraper
+phi
+phidata>=1.8.0  
+phi-agent>=0.1.0
