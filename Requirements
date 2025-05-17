@@ -2,6 +2,6 @@ phidata
 openai
 python-dotenv
 requests
-beautifulsoup4
+groq
 streamlit
-amazon_scraper
+phi
